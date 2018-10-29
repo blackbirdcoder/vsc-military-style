@@ -4,9 +4,32 @@
     "description": "The theme Military Style for the editor Visual Studio Code.",
     "version": "0.0.1",
     "publisher": "TechnoNinja",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#171C17",
+        "theme": "dark"
+    },
+    "author": {
+        "name": "TechnoNinja"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Evgeny-TechnoNinja/vsc-military-style"
+    },
+    "bugs": {
+        "url": "https://github.com/Evgeny-TechnoNinja/vsc-military-style/issues"
+      },
     "engines": {
         "vscode": "^1.28.0"
     },
+    "keywords": [
+		"theme",
+		"dark",
+        "dark-green",
+        "khaki",
+        "military"
+	],
     "categories": [
         "Themes"
     ],

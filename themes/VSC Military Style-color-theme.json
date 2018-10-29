@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#191F19", 
 		"editor.foreground": "#9D9E95", 
-		"activityBarBadge.background": "#191F19", //#191F19 +
+		"activityBarBadge.background": "#191F19", 
 		"sideBarTitle.foreground": "#C9C984",
 		"badge.background": "#454F32",
 		"badge.foreground": "#C9C984",
@@ -85,9 +85,9 @@
 		"titleBar.border": "#454545",
 		"titleBar.inactiveBackground": "#454545",
 		"activityBar.dropBackground": "#a0b4461f",
-		"activityBar.inactiveForeground": "#888a80", // #888a80 colors icons+
-		"activityBar.background": "#313D31", // #252e25 +
-		"activityBar.foreground": "#88b57d", //+
+		"activityBar.inactiveForeground": "#888a80", 
+		"activityBar.background": "#313D31", 
+		"activityBar.foreground": "#88b57d", 
 		"breadcrumb.activeSelectionForeground": "#407a29",
 		"breadcrumb.background": "#191F19",
 		"breadcrumb.focusForeground": "#A3B57D",
@@ -171,10 +171,10 @@
 		"menu.background": "#3c3c3c",
 		"menu.foreground": "#f0f0f0",
 		"menu.selectionBackground": "#405c50",
-		"menu.selectionForeground": "#ffffff", //#ffffff +
+		"menu.selectionForeground": "#ffffff", 
 		"menu.separatorBackground": "#bbbbbb",
-		"menubar.selectionBackground": "#ffffff1a", //ffffff1a +
-		"menubar.selectionForeground": "#cccccc", //#cccccc +
+		"menubar.selectionBackground": "#ffffff1a", 
+		"menubar.selectionForeground": "#cccccc", 
 		"merge.commonContentBackground": "#60606029",
 		"merge.commonHeaderBackground": "#60606066",
 		"merge.currentContentBackground": "#40c8ae33",
@@ -296,7 +296,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#882031" // #882031 +
+				"foreground": "#882031" 
 			}
 		},
 		{
