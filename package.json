@@ -2,7 +2,7 @@
     "name": "vsc-military-style",
     "displayName": "VSC Military Style",
     "description": "The theme Military Style for the editor Visual Studio Code.",
-    "version": "1.0.0-beta",
+    "version": "1.0.0",
     "publisher": "TechnoNinja",
     "license": "MIT",
     "icon": "images/icon.png",
